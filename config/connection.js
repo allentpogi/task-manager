@@ -18,6 +18,8 @@ let sequelize;
 //   );
 // }
 
+//test
+
 sequelize = new Sequelize("railway", "root", "oWROjsDkMksFQDBtWdx9", {
   host: "containers-us-west-37.railway.app",
   dialect: "mysql",
